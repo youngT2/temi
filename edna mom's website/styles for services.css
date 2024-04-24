@@ -1,0 +1,168 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e5e5e5;
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    /* Assuming you want the background on the whole page */
+    background-image: url('path-to--d-ge.g');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+  }
+  
+  /* To change the text color to blue */
+  .text-color-blue {
+    color: blue;
+  }
+   
+  header {
+    background-color: #004a80;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .price-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 20px;
+  }
+  
+  .category {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    width: 30%; 
+  }
+  
+  .category h2 {
+    color: #004a80;
+    margin: 0;
+    padding-bottom: 20px;
+  }
+  
+  .tenor {
+    font-weight: bold;
+    background-color: #0090c1;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  .monthly, .quarterly, .bi-annually {
+    background-color: #00b0e8;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  footer {
+    background-color: #004a80;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  
+  @media (max-width: 768px) {
+    .price-list {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .category {
+      width: 90%;
+    }
+  }
+ 
+
+.home-care-plan {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .home-care-plan h2 {
+    color: #004a80;
+    text-align: center;
+  }
+  
+  .home-care-plan h3 {
+    color: #0090c1;
+  }
+  
+  .home-care-plan ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .home-care-plan ul li {
+    background-color: #e6f4f1;
+    color: #333;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .home-care-plan ul li:hover {
+    background-color: #d1e9e3;
+    transform: translateX(10px);
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #004a80;
+    color: white;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-container h1 {
+    margin-left: 10px;
+    font-size: 24px; 
+  }
+  
+  .logo {
+    height: 50px; 
+  }
+  
+  
+  body {
+    margin-top: 70px; 
+  }
+  
+  .service {
+    transition: transform 0.3s ease;
+  }
+  
+  .service:hover {
+    transform: translateY(-10px);
+  }
+  
+  .service-title {
+    display: inline-block;
+    transition: transform 0.3s ease;
+  }
+  
+ 
+  .service-title-hover {
+    transform: scale(1.1);
+  }
+   
+   
+ 
+   
