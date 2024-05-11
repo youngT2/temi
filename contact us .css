@@ -1,0 +1,47 @@
+header {
+    background-color: #0055A4; 
+    color: #ffffff; 
+    padding: 20px;
+   
+}
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e5e5e5;
+    margin: 0;
+    padding: 0;
+  }
+
+
+
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-container h1 {
+    margin-left: 10px;
+    font-size: 24px; 
+  }
+  
+  .logo {
+    height: 50px; 
+  }
+  
+  
+  body {
+    margin-top: 70px; 
+  }
+
+  body {
+   
+    background-image: url('female-nurse-taking-care-elderly-person_23-2150216370\ \(1\).jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+  }
+footer {
+    background-color: #0055A4; 
+    color: #ffffff; 
+    text-align: center;
+    padding: 20px;
+}
