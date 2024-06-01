@@ -275,6 +275,9 @@ body {
         width: 100%;
     }
 
+    .client-name-highlight {
+      color: #0056b3; 
+  }
    
     .status-container {
         order: 1; 

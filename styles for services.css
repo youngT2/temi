@@ -249,6 +249,8 @@ footer {
   .price-list {
     flex-direction: column;
     align-items: center;
+    flex-direction: column;
+    width: 100%; 
   }
 
   .category {
